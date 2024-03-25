@@ -1,0 +1,67 @@
+﻿@model HomePageViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div id="carouselExampleIndicators" class="carousel slide">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/images/slide-1.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/slide-2.png" class="d-block w-100" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="~/images/slide-3.png" class="d-block w-100" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+</div>
+<div class="row mt-3">
+    <h4>Sizin için seçtiklerimiz</h4>
+    <hr />
+</div>
+<div class="row">
+    @foreach (var book in Model.SizinIcinSectiklerimiz)
+    {
+        <div class="card col-md-3 m-2 text-center" style="width: 18rem;">
+            <img src="https://localhost:7262/uploads/books/@book.ImageUrl" class="card-img-top mx-auto mt-3" alt="..." style="height:350px; width:250px;">
+            <div class="card-body">
+                <h5 class="card-title">@book.Name</h5>
+                <h3 class="card-text text-warning">@book.Price ₺</h3>
+                <a asp-controller="Book" asp-action="Index" asp-route-id="@book.Id" class="btn btn-primary">Detaylı Bilgi</a>
+            </div>
+        </div>
+    }
+</div>
+<div class="row mt-3">
+    <h4>Çok Satanlar</h4>
+    <hr />
+</div>
+<div class="row">
+    @foreach (var book in Model.CokSatanlar)
+    {
+        <div class="card col-md-3 m-2 text-center" style="width: 18rem;">
+            <img src="https://localhost:7262/uploads/books/@book.ImageUrl" class="card-img-top mx-auto mt-3" alt="..." style="height:350px; width:250px;">
+            <div class="card-body">
+                <h5 class="card-title">@book.Name</h5>
+                <h3 class="card-text text-warning">@book.Price ₺</h3>
+                <a asp-controller="Book" asp-action="Index" asp-route-id="@book.Id" class="btn btn-primary">Detaylı Bilgi</a>
+            </div>
+        </div>
+    }
+</div>

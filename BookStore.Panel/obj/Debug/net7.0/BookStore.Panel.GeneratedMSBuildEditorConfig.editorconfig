@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BookStore.Panel
+build_property.RootNamespace = BookStore.Panel
+build_property.ProjectDir = D:\GİTHUB\Acunmedya Ders Örnekler\AMA-8-Donem-Backend\ASP.NET MVC\BookStore\BookStore.Panel\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\GİTHUB\Acunmedya Ders Örnekler\AMA-8-Donem-Backend\ASP.NET MVC\BookStore\BookStore.Panel
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Writers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Writers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Writers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Writers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GİTHUB/Acunmedya Ders Örnekler/AMA-8-Donem-Backend/ASP.NET MVC/BookStore/BookStore.Panel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ctdo07f6qa
